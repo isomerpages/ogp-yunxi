@@ -1,15 +1,17 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Pre-Work
+        url: /permalink
+      - title: Online Web Development Course
+        url: /permalink
+      - title: Recommended Reading
+        url: /permalink
+  - title: Demo Day
     url: /example-page/
   - title: Example Folder
     collection: example-folder

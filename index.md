@@ -6,27 +6,26 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: TechUp 2.0
+      subtitle: Using modern technology to solve real world problems
+      background: /images/hero-banner.png
+      button: Get started
+      url: /contact-us/
+      key_highlights:
+        - title: Course Resources
+          description: Reference materials
+          url: https://google.com
+        - title: Course Programme
+          description: Programme schedule
+          url: https://gmail.com
+        - title: Get help
+          description: ""
+          url: /privacy/
+  - infobar:
+      title: Infobar title
+      subtitle: About Techup
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
-

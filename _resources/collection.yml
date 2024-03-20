@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Recommended Reading.md
       - Pre Work.md
+      - Recommended Reading.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md

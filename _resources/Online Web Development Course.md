@@ -4,3 +4,4 @@ permalink: /resources/online-web-dev-course/
 variant: tiptap
 description: ""
 ---
+<p></p>

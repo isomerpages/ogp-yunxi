@@ -14,14 +14,14 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Course Resources
-          description: Reference materials
-          url: https://google.com
-        - title: Course Programme
-          description: Programme schedule
-          url: https://gmail.com
-        - title: Get help
           description: ""
-          url: /privacy/
+          url: https://google.com
+        - title: Programme Schedule
+          description: ""
+          url: https://gmail.com
+        - title: Frequently asked questions
+          description: ""
+          url: /faq/
   - infobar:
       title: Infobar title
       subtitle: About Techup

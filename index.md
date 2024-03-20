@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: TechUp 2.0
+description: All about TechUp
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!

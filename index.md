@@ -23,22 +23,23 @@ sections:
         - title: Frequently asked questions
           description: ""
           url: /faq/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Pre-Work
+          date: 25 March 2024
+          announcement: "TechUp will be starting on 6 May 2024. Please read the
+            instructions to set up your tooling and do pre-readings before the
+            programme. "
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Infobar title
       subtitle: About Techup
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 25 March 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
   - infocols:
       title: Info-columns
       subtitle: Add snippets of text in columns
@@ -68,6 +69,7 @@ sections:
           description: Venue, resources and collaterals
           linktext: See more
           url: /meet-the-team
+      description: Who to go to if you need help
   - resources:
       title: Programme Resources
       id: resources

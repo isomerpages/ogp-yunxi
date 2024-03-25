@@ -29,29 +29,32 @@ sections:
       announcement_items:
         - title: Pre-Work
           date: 25 March 2024
-          announcement: "TechUp will be starting on 6 May 2024. Please read the
+          announcement: TechUp will be starting on 6 May 2024. Please read the
             instructions to set up your tooling and do pre-readings before the
-            programme. "
+            programme.
           link_text: ""
           link_url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: About Techup
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
+      title: Events
+      subtitle: Coming soon
       id: infocols
-      linktext: Learn more
+      linktext: See more
       infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+        - title: Kickoff Day
+          description: 6 May 2024, 9am to 4pm, Mapletree Business Centre Block 30 Level 11
+            Jupiter Rooms 1 and 2
+        - title: Web App Presentations
+          description: 27 to 28 May 2024, full day, Smart Nation Office, Funan Tower 2
+            Level 6
+        - title: Demo Day
+          description: 29 May 2024, 10am to 2pm, MCI Atrium
+  - infobar:
+      title: TechUp 2.0
+      subtitle: About Techup
+      description: "TechUp is in its second run this year. Read more about why it was
+        started and what its objectives are. "
+      button: Find Out More
+      url: /about-techup
   - textcards:
       title: Meet the Team
       id: textcards

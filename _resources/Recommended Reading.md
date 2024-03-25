@@ -70,8 +70,8 @@ machine code&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.freecodecamp.org/news/how-to-learn-programming/" rel="noopener noreferrer nofollow" target="_blank"><u>Code.org</u></a>
-<a href="https://www.youtube.com/watch?v=OAx_6-wdslM&amp;list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-" rel="noopener noreferrer nofollow" target="_blank"><u> YouTube playlist: How Computers Work</u>
+<p><a href="https://www.freecodecamp.org/news/how-to-learn-programming/" rel="noopener noreferrer nofollow" target="_blank"><u>Code.org</u></a> 
+<a href="https://www.youtube.com/watch?v=OAx_6-wdslM&amp;list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-" rel="noopener noreferrer nofollow" target="_blank"><u>YouTube playlist: How Computers Work</u>
 </a>
 </p>
 <ol>
@@ -101,8 +101,8 @@ machine code&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.freecodecamp.org/news/how-to-learn-programming/" rel="noopener noreferrer nofollow" target="_blank"><u>Code.org</u></a>
-<a href="https://www.youtube.com/watch?v=Dxcc6ycZ73M&amp;list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7" rel="noopener noreferrer nofollow" target="_blank"><u> YouTube playlist: How the Internet Works</u>
+<p><a href="https://www.freecodecamp.org/news/how-to-learn-programming/" rel="noopener noreferrer nofollow" target="_blank"><u>Code.org</u></a> 
+<a href="https://www.youtube.com/watch?v=Dxcc6ycZ73M&amp;list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7" rel="noopener noreferrer nofollow" target="_blank"><u>YouTube playlist: How the Internet Works</u> 
 </a>&nbsp;</p>
 <ol>
 <li>
@@ -580,7 +580,7 @@ to Medium required)&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.deeplearning.ai/machine-learning-yearning/" rel="noopener noreferrer nofollow" target="_blank"><u>Machine Learning Yearning - </u></a>
-<a href="https://www.freecodecamp.org/news/how-to-learn-programming/" rel="noopener noreferrer nofollow" target="_blank"><u>deeplearning.ai</u>
+<a href="https://www.freecodecamp.org/news/how-to-learn-programming/" rel="noopener noreferrer nofollow" target="_blank"><u>deeplearning.ai</u> 
 </a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -777,9 +777,9 @@ to Medium required)&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jamstack (<a href="https://jamstack.org/what-is-jamstack/" rel="noopener noreferrer nofollow" target="_blank"><u>What</u></a>,
-<a href="https://jamstack.org/why-jamstack/" rel="noopener noreferrer nofollow" target="_blank"> <u>Why</u>
+<a href="https://jamstack.org/why-jamstack/" rel="noopener noreferrer nofollow" target="_blank"><u>Why</u> 
 </a>,<a href="https://jamstack.org/best-practices/" rel="noopener noreferrer nofollow" target="_blank"> <u>Best Practices</u></a>,
-<a href="https://www.youtube.com/watch?v=Opye_qcRdUo" rel="noopener noreferrer nofollow" target="_blank"> <u>Video</u>
+<a href="https://www.youtube.com/watch?v=Opye_qcRdUo" rel="noopener noreferrer nofollow" target="_blank"><u>Video</u> 
 </a>)</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -16,10 +16,10 @@ sections:
       key_highlights:
         - title: Programme Resources
           description: ""
-          url: https://google.com
+          url: /programme-resources/
         - title: Programme Schedule
           description: ""
-          url: https://gmail.com
+          url: /programme-schedule/
         - title: Frequently asked questions
           description: ""
           url: /faq/

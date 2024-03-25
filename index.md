@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Programme Resources
           description: ""
-          url: /programme-resources/
+          url: /resources/
         - title: Programme Schedule
           description: ""
           url: /programme-schedule/

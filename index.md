@@ -4,7 +4,8 @@ title: TechUp 2.0
 description: All about TechUp
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please read programme instructions and programme schedule
+  carefully before the programme starts on 6 May.
 sections:
   - hero:
       title: TechUp 2.0
@@ -13,7 +14,7 @@ sections:
       button: Get started
       url: /contact-us/
       key_highlights:
-        - title: Course Resources
+        - title: Programme Resources
           description: ""
           url: https://google.com
         - title: Programme Schedule

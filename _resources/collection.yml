@@ -4,6 +4,6 @@ collections:
     order:
       - Pre Work.md
       - Online Web Development Course.md
-      - Recommended Reading.md
+      - Compulsory Pre Reading.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md

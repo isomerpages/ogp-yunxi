@@ -2,9 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: About TechUp
     url: /about-techup/
-  - title: Demo Day
-    url: /example-page/
-  - title: Resources
-    collection: resources
   - title: Meet The Team
     url: /meet-the-team
+  - title: Resources
+    collection: resources
+  - title: Demo Day
+    url: /example-page/

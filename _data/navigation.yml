@@ -1,16 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
+  - title: About TechUp
     url: /contact-us/
-  - title: Resources
-    url: /permalink
-    sublinks:
-      - title: Pre-Work
-        url: /permalink
-      - title: Online Web Development Course
-        url: /permalink
-      - title: Recommended Reading
-        url: /permalink
   - title: Demo Day
     url: /example-page/
   - title: Resources

@@ -51,8 +51,8 @@ sections:
   - infobar:
       title: TechUp 2.0
       subtitle: About Techup
-      description: "TechUp is in its second run this year. Read more about why it was
-        started and what its objectives are. "
+      description: TechUp is in its second run this year. Read more about why it was
+        started and what its objectives are.
       button: Find Out More
       url: /about-techup
   - textcards:
